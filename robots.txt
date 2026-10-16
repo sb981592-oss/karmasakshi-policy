@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sb981592-oss.github.io/karmasakshi-policy/sitemap.xml
